@@ -40,6 +40,9 @@ A robust full-stack application demonstrating a microservices architecture using
 └── README.md           # Project documentation
 ```
 
+## Project Workflow
+![Project Screenshot](Screenshots/workflow.png)
+
 ## 📋 Prerequisites
 
 Ensure you have the following installed on your machine:
